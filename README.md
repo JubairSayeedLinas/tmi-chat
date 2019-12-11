@@ -1,6 +1,7 @@
 # tmi_chat
 
-A new Flutter application.
+A new Flutter application for group chat.
+
 
 ## Getting Started
 
