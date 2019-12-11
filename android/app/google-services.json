@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115201049857",
+    "firebase_url": "https://tmi-chat-linas.firebaseio.com",
+    "project_id": "tmi-chat-linas",
+    "storage_bucket": "tmi-chat-linas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115201049857:android:ac5f2000f8125a683d0700",
+        "android_client_info": {
+          "package_name": "com.tmibd.tmi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115201049857-0ji695ebbijp3j0ikv685rpeiganv8er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-eCro9JqQ94N0ERmy4PGA6orzUtP9Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115201049857-0ji695ebbijp3j0ikv685rpeiganv8er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
