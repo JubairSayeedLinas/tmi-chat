@@ -3,6 +3,10 @@
 A new Flutter application for group chat.
 
 
+![](ezgif.com-video-to-gif.gif)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
